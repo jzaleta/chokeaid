@@ -1,6 +1,12 @@
 # 🍎 ChokeAid
 
-> WWDC23 Swift Student Challenge Submission
+> My WWDC23 Swift Student Challenge Submission
+
+## Status Update
+
+![](wwdc.jpg)
+
+### My project was rejected, but I'm proud of how much I accomplished within a few days. I learned the Swift and SwiftUI basics and had a great time building my app!
 
 ## About
 
